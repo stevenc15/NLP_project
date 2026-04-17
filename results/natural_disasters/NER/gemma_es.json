@@ -1,0 +1,430 @@
+[
+  [
+    [
+      "Indian Ocean",
+      "location"
+    ],
+    [
+      "December 26, 2004",
+      "date"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "Sumatra",
+      "location"
+    ],
+    [
+      "Sri Lanka",
+      "country"
+    ],
+    [
+      "India",
+      "country"
+    ],
+    [
+      "Thailand",
+      "country"
+    ],
+    [
+      "Malaysia",
+      "country"
+    ],
+    [
+      "Maldives",
+      "country"
+    ],
+    [
+      "Somalia",
+      "country"
+    ],
+    [
+      "Kenya",
+      "country"
+    ],
+    [
+      "Tanzania",
+      "country"
+    ],
+    [
+      "Mozambique",
+      "country"
+    ],
+    [
+      "South Africa",
+      "country"
+    ],
+    [
+      "Australia",
+      "country"
+    ],
+    [
+      "Coastal erosion",
+      "event"
+    ],
+    [
+      "Survivors",
+      "person"
+    ],
+    [
+      "significant psychological trauma",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Tangshan",
+      "location"
+    ],
+    [
+      "July 28, 1976",
+      "date"
+    ],
+    [
+      "Hebei Province",
+      "location"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Humanitarian Crisis",
+      "event"
+    ],
+    [
+      "Chinese government",
+      "organization"
+    ],
+    [
+      "1976",
+      "date"
+    ],
+    [
+      "Tangshan earthquake",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Haiyuan Earthquake",
+      "event"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "August 18, 1920",
+      "date"
+    ],
+    [
+      "Haiyuan",
+      "location"
+    ],
+    [
+      "Shanxi",
+      "location"
+    ],
+    [
+      "Gansu",
+      "location"
+    ],
+    [
+      "international organizations",
+      "organization"
+    ],
+    [
+      "natural disasters",
+      "event"
+    ],
+    [
+      "historians and researchers",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "The 1923 Great Kantō Earthquake",
+      "event"
+    ],
+    [
+      "Kanto earthquake",
+      "event"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "September 1, 1923",
+      "date"
+    ],
+    [
+      "Tokyo",
+      "location"
+    ],
+    [
+      "Kantō region",
+      "location"
+    ],
+    [
+      "Yokohama",
+      "location"
+    ],
+    [
+      "North Anatolian Fault",
+      "location"
+    ],
+    [
+      "Japanese government",
+      "organization"
+    ],
+    [
+      "1923",
+      "date"
+    ],
+    [
+      "Great Kantō earthquake",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Ashgabat Earthquake",
+      "event"
+    ],
+    [
+      "Ashgabat",
+      "location"
+    ],
+    [
+      "Turkmenistan",
+      "country"
+    ],
+    [
+      "August 26, 1948",
+      "date"
+    ],
+    [
+      "Turkmen-Caspian fault system",
+      "location"
+    ],
+    [
+      "natural disasters",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Tōhoku",
+      "location"
+    ],
+    [
+      "March 11, 2011",
+      "date"
+    ],
+    [
+      "earthquake",
+      "event"
+    ],
+    [
+      "Tohoku",
+      "location"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "tsunami",
+      "event"
+    ],
+    [
+      "Fukushima Daiichi Nuclear Power Plant",
+      "organization"
+    ],
+    [
+      "2011",
+      "date"
+    ],
+    [
+      "Tōhoku earthquake and tsunami",
+      "event"
+    ]
+  ],
+  [
+    [
+      "The 1995 Great Hanshin Earthquake",
+      "event"
+    ],
+    [
+      "Kobe",
+      "location"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "January 17, 1995",
+      "date"
+    ],
+    [
+      "Hyogo Prefecture",
+      "location"
+    ],
+    [
+      "Osaka",
+      "location"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "Pacific Ring of Fire",
+      "location"
+    ],
+    [
+      "International Cooperation",
+      "organization"
+    ],
+    [
+      "1995",
+      "date"
+    ],
+    [
+      "Great Hanshin earthquake",
+      "event"
+    ],
+    [
+      "Japanese",
+      "country"
+    ]
+  ],
+  [
+    [
+      "February 6, 2023",
+      "date"
+    ],
+    [
+      "Turkey",
+      "country"
+    ],
+    [
+      "Syria",
+      "country"
+    ],
+    [
+      "First Earthquake",
+      "event"
+    ],
+    [
+      "Gaziantep",
+      "location"
+    ],
+    [
+      "Second Earthquake",
+      "event"
+    ],
+    [
+      "Kahramanmaras",
+      "location"
+    ],
+    [
+      "International Aid",
+      "organization"
+    ],
+    [
+      "international community",
+      "organization"
+    ],
+    [
+      "Climate Change",
+      "event"
+    ],
+    [
+      "The United Nations",
+      "organization"
+    ],
+    [
+      "The Red Cross",
+      "organization"
+    ],
+    [
+      "The World Bank",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Sichuan",
+      "location"
+    ],
+    [
+      "2008 Sichuan earthquake",
+      "event"
+    ],
+    [
+      "Wenchuan earthquake",
+      "event"
+    ],
+    [
+      "Sichuan province",
+      "location"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "May 12, 2008",
+      "date"
+    ],
+    [
+      "Wenchuan",
+      "location"
+    ],
+    [
+      "Humanitarian Crisis",
+      "event"
+    ],
+    [
+      "Sichuan Basin fault zone",
+      "location"
+    ],
+    [
+      "Building Codes and Disaster Preparedness",
+      "organization"
+    ],
+    [
+      "The earthquake",
+      "event"
+    ],
+    [
+      "Infrastructure Development",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Christchurch",
+      "location"
+    ],
+    [
+      "February 22, 2011",
+      "date"
+    ],
+    [
+      "New Zealand",
+      "country"
+    ],
+    [
+      "Emergency services",
+      "organization"
+    ]
+  ]
+]

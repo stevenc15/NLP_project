@@ -1,0 +1,61 @@
+event,model_lang,person_model,person_gt,person_ratio,organization_model,organization_gt,organization_ratio,location_model,location_gt,location_ratio,country_model,country_gt,country_ratio,date_model,date_gt,date_ratio,event_model,event_gt,event_ratio
+War in Darfur,gemma_en,1,2,0.5,3,15,0.2,1,3,0.3333,1,2,0.5,5,4,1.25,4,5,0.8
+Iraq War,gemma_en,1,7,0.1429,5,11,0.4545,0,0,,4,6,0.6667,5,11,0.4545,2,6,0.3333
+Mexican Drug War,gemma_en,0,5,0.0,5,8,0.625,0,4,0.0,2,2,1.0,2,6,0.3333,5,6,0.8333
+Central African Bush War,gemma_en,0,1,0.0,9,14,0.6429,2,1,2.0,4,2,2.0,6,6,1.0,6,2,3.0
+2005 Bangladesh–India border clash,gemma_en,1,0,,4,0,,1,0,,3,0,,1,0,,2,0,
+Chadian Civil War,gemma_en,3,0,,2,0,,0,0,,2,1,2.0,4,3,1.3333,5,3,1.6667
+Iraqi civil war,gemma_en,1,0,,7,5,1.4,1,0,,4,3,1.3333,4,4,1.0,5,8,0.625
+Operation Astute,gemma_en,0,2,0.0,5,3,1.6667,1,1,1.0,0,5,0.0,1,1,1.0,2,0,
+2006 Lebanon War,gemma_en,0,2,0.0,3,8,0.375,0,3,0.0,2,2,1.0,4,7,0.5714,3,1,3.0
+Somalia Civil War,gemma_en,3,1,3.0,6,23,0.2609,1,5,0.2,1,2,0.5,4,17,0.2353,2,3,0.6667
+War in Darfur,gemma_es,2,2,1.0,10,15,0.6667,2,3,0.6667,1,2,0.5,5,4,1.25,5,5,1.0
+Iraq War,gemma_es,2,7,0.2857,3,11,0.2727,1,0,,8,6,1.3333,4,11,0.3636,7,6,1.1667
+Mexican Drug War,gemma_es,2,5,0.4,6,8,0.75,0,4,0.0,2,2,1.0,4,6,0.6667,3,6,0.5
+Central African Bush War,gemma_es,3,1,3.0,12,14,0.8571,1,1,1.0,4,2,2.0,4,6,0.6667,8,2,4.0
+2005 Bangladesh–India border clash,gemma_es,0,0,,1,0,,1,0,,2,0,,2,0,,1,0,
+Chadian Civil War,gemma_es,3,0,,5,0,,2,0,,1,1,1.0,5,3,1.6667,5,3,1.6667
+Iraqi civil war,gemma_es,2,0,,12,5,2.4,0,0,,2,3,0.6667,5,4,1.25,2,8,0.25
+Operation Astute,gemma_es,0,2,0.0,5,3,1.6667,1,1,1.0,0,5,0.0,1,1,1.0,2,0,
+2006 Lebanon War,gemma_es,1,2,0.5,2,8,0.25,1,3,0.3333,2,2,1.0,2,7,0.2857,6,1,6.0
+Somalia Civil War,gemma_es,1,1,1.0,10,23,0.4348,0,5,0.0,1,2,0.5,5,17,0.2941,6,3,2.0
+War in Darfur,qwen_en,0,2,0.0,8,15,0.5333,2,3,0.6667,1,2,0.5,3,4,0.75,3,5,0.6
+Iraq War,qwen_en,1,7,0.1429,1,11,0.0909,1,0,,7,6,1.1667,3,11,0.2727,4,6,0.6667
+Mexican Drug War,qwen_en,1,5,0.2,6,8,0.75,0,4,0.0,2,2,1.0,2,6,0.3333,2,6,0.3333
+Central African Bush War,qwen_en,3,1,3.0,7,14,0.5,0,1,0.0,1,2,0.5,3,6,0.5,1,2,0.5
+2005 Bangladesh–India border clash,qwen_en,0,0,,2,0,,4,0,,2,0,,2,0,,0,0,
+Chadian Civil War,qwen_en,5,0,,6,0,,0,0,,4,1,4.0,4,3,1.3333,3,3,1.0
+Iraqi civil war,qwen_en,3,0,,10,5,2.0,2,0,,2,3,0.6667,3,4,0.75,3,8,0.375
+Operation Astute,qwen_en,1,2,0.5,1,3,0.3333,2,1,2.0,2,5,0.4,3,1,3.0,3,0,
+2006 Lebanon War,qwen_en,1,2,0.5,3,8,0.375,1,3,0.3333,2,2,1.0,2,7,0.2857,4,1,4.0
+Somalia Civil War,qwen_en,2,1,2.0,7,23,0.3043,2,5,0.4,2,2,1.0,9,17,0.5294,2,3,0.6667
+War in Darfur,qwen_es,1,2,0.5,6,15,0.4,1,3,0.3333,1,2,0.5,3,4,0.75,4,5,0.8
+Iraq War,qwen_es,2,7,0.2857,1,11,0.0909,1,0,,6,6,1.0,6,11,0.5455,0,6,0.0
+Mexican Drug War,qwen_es,1,5,0.2,7,8,0.875,0,4,0.0,1,2,0.5,3,6,0.5,1,6,0.1667
+Central African Bush War,qwen_es,2,1,2.0,3,14,0.2143,1,1,1.0,7,2,3.5,3,6,0.5,1,2,0.5
+2005 Bangladesh–India border clash,qwen_es,1,0,,2,0,,2,0,,4,0,,1,0,,0,0,
+Chadian Civil War,qwen_es,4,0,,5,0,,2,0,,7,1,7.0,8,3,2.6667,1,3,0.3333
+Iraqi civil war,qwen_es,1,0,,5,5,1.0,1,0,,2,3,0.6667,5,4,1.25,0,8,0.0
+Operation Astute,qwen_es,0,2,0.0,0,3,0.0,0,1,0.0,0,5,0.0,0,1,0.0,1,0,
+2006 Lebanon War,qwen_es,0,2,0.0,2,8,0.25,1,3,0.3333,1,2,0.5,4,7,0.5714,0,1,0.0
+Somalia Civil War,qwen_es,1,1,1.0,5,23,0.2174,1,5,0.2,3,2,1.5,4,17,0.2353,1,3,0.3333
+War in Darfur,llama_en,1,2,0.5,12,15,0.8,1,3,0.3333,4,2,2.0,3,4,0.75,5,5,1.0
+Iraq War,llama_en,2,7,0.2857,7,11,0.6364,1,0,,4,6,0.6667,7,11,0.6364,3,6,0.5
+Mexican Drug War,llama_en,3,5,0.6,4,8,0.5,2,4,0.5,2,2,1.0,13,6,2.1667,4,6,0.6667
+Central African Bush War,llama_en,4,1,4.0,0,14,0.0,3,1,3.0,4,2,2.0,8,6,1.3333,2,2,1.0
+2005 Bangladesh–India border clash,llama_en,2,0,,1,0,,2,0,,2,0,,3,0,,0,0,
+Chadian Civil War,llama_en,2,0,,3,0,,1,0,,4,1,4.0,9,3,3.0,2,3,0.6667
+Iraqi civil war,llama_en,5,0,,6,5,1.2,0,0,,3,3,1.0,8,4,2.0,3,8,0.375
+Operation Astute,llama_en,0,2,0.0,7,3,2.3333,1,1,1.0,1,5,0.2,4,1,4.0,6,0,
+2006 Lebanon War,llama_en,1,2,0.5,3,8,0.375,9,3,3.0,2,2,1.0,11,7,1.5714,3,1,3.0
+Somalia Civil War,llama_en,4,1,4.0,8,23,0.3478,1,5,0.2,2,2,1.0,3,17,0.1765,8,3,2.6667
+War in Darfur,llama_es,1,2,0.5,3,15,0.2,1,3,0.3333,1,2,0.5,3,4,0.75,0,5,0.0
+Iraq War,llama_es,2,7,0.2857,3,11,0.2727,0,0,,2,6,0.3333,3,11,0.2727,1,6,0.1667
+Mexican Drug War,llama_es,4,5,0.8,5,8,0.625,1,4,0.25,2,2,1.0,4,6,0.6667,1,6,0.1667
+Central African Bush War,llama_es,2,1,2.0,3,14,0.2143,1,1,1.0,6,2,3.0,4,6,0.6667,1,2,0.5
+2005 Bangladesh–India border clash,llama_es,1,0,,2,0,,2,0,,2,0,,2,0,,2,0,
+Chadian Civil War,llama_es,5,0,,1,0,,0,0,,3,1,3.0,7,3,2.3333,1,3,0.3333
+Iraqi civil war,llama_es,1,0,,6,5,1.2,0,0,,1,3,0.3333,4,4,1.0,2,8,0.25
+Operation Astute,llama_es,1,2,0.5,2,3,0.6667,3,1,3.0,2,5,0.4,2,1,2.0,2,0,
+2006 Lebanon War,llama_es,0,2,0.0,4,8,0.5,0,3,0.0,2,2,1.0,2,7,0.2857,0,1,0.0
+Somalia Civil War,llama_es,2,1,2.0,5,23,0.2174,2,5,0.4,1,2,0.5,9,17,0.5294,0,3,0.0

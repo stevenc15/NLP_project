@@ -1,0 +1,426 @@
+[
+  [
+    [
+      "Indian Ocean",
+      "location"
+    ],
+    [
+      "December 26, 2004",
+      "date"
+    ],
+    [
+      "magnitude 9.1-9.3 earthquake",
+      "event"
+    ],
+    [
+      "Sumatra",
+      "location"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "East Africa",
+      "location"
+    ],
+    [
+      "Southeast Asia",
+      "location"
+    ],
+    [
+      "Sri Lanka",
+      "country"
+    ],
+    [
+      "India",
+      "country"
+    ],
+    [
+      "Thailand",
+      "country"
+    ]
+  ],
+  [
+    [
+      "1976",
+      "date"
+    ],
+    [
+      "Tangshan",
+      "location"
+    ],
+    [
+      "July 28, 1976",
+      "date"
+    ],
+    [
+      "Hebei province",
+      "location"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Bohai Sea",
+      "location"
+    ],
+    [
+      "earthquake",
+      "event"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "International aid",
+      "organization"
+    ],
+    [
+      "Tangshan earthquake",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Haiyuan earthquake",
+      "event"
+    ],
+    [
+      "December 16, 1920",
+      "date"
+    ],
+    [
+      "Haiyuan County",
+      "location"
+    ],
+    [
+      "Ningxia Hui Autonomous Region",
+      "location"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Linxia",
+      "location"
+    ],
+    [
+      "Gansu",
+      "location"
+    ],
+    [
+      "Ningxia",
+      "location"
+    ],
+    [
+      "Shaanxi",
+      "location"
+    ],
+    [
+      "Chinese government",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "The 1923 Great Kantō earthquake",
+      "event"
+    ],
+    [
+      "Kantō region",
+      "location"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "September 1, 1923",
+      "date"
+    ],
+    [
+      "Sagami Bay",
+      "location"
+    ],
+    [
+      "tsunami",
+      "event"
+    ],
+    [
+      "Tokyo",
+      "location"
+    ],
+    [
+      "Yokohama",
+      "location"
+    ],
+    [
+      "earthquake",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Ashgabat",
+      "location"
+    ],
+    [
+      "November 23, 1948",
+      "date"
+    ],
+    [
+      "Turkmenistan",
+      "country"
+    ],
+    [
+      "presidential palace",
+      "location"
+    ],
+    [
+      "parliament building",
+      "location"
+    ],
+    [
+      "World War II",
+      "event"
+    ],
+    [
+      "Soviet government",
+      "organization"
+    ],
+    [
+      "United States",
+      "country"
+    ],
+    [
+      "China",
+      "country"
+    ]
+  ],
+  [
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "March 11, 2011",
+      "date"
+    ],
+    [
+      "Pacific Ocean",
+      "location"
+    ],
+    [
+      "Honshu",
+      "location"
+    ],
+    [
+      "Fukushima Prefecture",
+      "location"
+    ],
+    [
+      "Oshika Peninsula",
+      "location"
+    ],
+    [
+      "Miyagi Prefecture",
+      "location"
+    ],
+    [
+      "Shikoku",
+      "location"
+    ],
+    [
+      "Kyushu",
+      "location"
+    ],
+    [
+      "South Korea",
+      "country"
+    ],
+    [
+      "Philippines",
+      "country"
+    ],
+    [
+      "Sendai",
+      "location"
+    ],
+    [
+      "Kesennuma",
+      "location"
+    ],
+    [
+      "Ishinomaki",
+      "location"
+    ],
+    [
+      "Fukushima Daiichi Nuclear Power Plant Incident",
+      "event"
+    ]
+  ],
+  [
+    [
+      "1995 Great Hanshin Earthquake",
+      "event"
+    ],
+    [
+      "Kobe",
+      "location"
+    ],
+    [
+      "January 17, 1995",
+      "date"
+    ],
+    [
+      "Hyogo Prefecture",
+      "location"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "tsunami",
+      "event"
+    ]
+  ],
+  [
+    [
+      "2023",
+      "date"
+    ],
+    [
+      "Turkey",
+      "country"
+    ],
+    [
+      "Syria",
+      "country"
+    ],
+    [
+      "February 6, 2023",
+      "date"
+    ],
+    [
+      "Adana",
+      "location"
+    ],
+    [
+      "Hatay",
+      "location"
+    ],
+    [
+      "Şanlıurfa",
+      "location"
+    ],
+    [
+      "Emergency services",
+      "organization"
+    ],
+    [
+      "International aid",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Sichuan earthquake",
+      "event"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Sichuan province",
+      "location"
+    ],
+    [
+      "May 12, 2008",
+      "date"
+    ],
+    [
+      "Yingxiu",
+      "location"
+    ],
+    [
+      "Mianzhu City",
+      "location"
+    ],
+    [
+      "earthquake",
+      "event"
+    ],
+    [
+      "Chengdu",
+      "location"
+    ],
+    [
+      "Wenchuan",
+      "location"
+    ],
+    [
+      "Ya'an",
+      "location"
+    ],
+    [
+      "Chinese government",
+      "organization"
+    ],
+    [
+      "international aid organizations",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Christchurch",
+      "location"
+    ],
+    [
+      "Canterbury region",
+      "location"
+    ],
+    [
+      "New Zealand",
+      "country"
+    ],
+    [
+      "South Island",
+      "location"
+    ],
+    [
+      "September 4",
+      "date"
+    ],
+    [
+      "February 22, 2011",
+      "date"
+    ],
+    [
+      "February 22",
+      "date"
+    ],
+    [
+      "Initial Event",
+      "event"
+    ],
+    [
+      "September 4, 2011",
+      "date"
+    ],
+    [
+      "Main Event",
+      "event"
+    ],
+    [
+      "Darfield",
+      "location"
+    ]
+  ]
+]

@@ -1,0 +1,322 @@
+[
+  [
+    [
+      "India",
+      "country"
+    ],
+    [
+      "2012",
+      "date"
+    ],
+    [
+      "Delhi",
+      "location"
+    ],
+    [
+      "Mumbai",
+      "location"
+    ],
+    [
+      "Kolkata",
+      "location"
+    ],
+    [
+      "July 30, 2012",
+      "date"
+    ],
+    [
+      "Businesses",
+      "organization"
+    ],
+    [
+      "elderly",
+      "person"
+    ],
+    [
+      "government",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "February 2023",
+      "date"
+    ],
+    [
+      "February 1st",
+      "date"
+    ],
+    [
+      "national electricity grid",
+      "organization"
+    ],
+    [
+      "Punjab",
+      "location"
+    ],
+    [
+      "Lahore",
+      "location"
+    ],
+    [
+      "Karachi",
+      "location"
+    ],
+    [
+      "Islamabad",
+      "location"
+    ],
+    [
+      "rural regions",
+      "location"
+    ]
+  ],
+  [
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "February 13, 2022",
+      "date"
+    ],
+    [
+      "North and South regions",
+      "location"
+    ],
+    [
+      "cascading failure",
+      "event"
+    ],
+    [
+      "urban areas",
+      "location"
+    ],
+    [
+      "rural villages",
+      "location"
+    ],
+    [
+      "remote regions",
+      "location"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "utility companies",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "February 2021",
+      "date"
+    ],
+    [
+      "February 14, 2021",
+      "date"
+    ],
+    [
+      "national electricity grid",
+      "organization"
+    ],
+    [
+      "Punjab",
+      "location"
+    ],
+    [
+      "Sindh",
+      "location"
+    ],
+    [
+      "economic losses",
+      "event"
+    ],
+    [
+      "businesses",
+      "organization"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "February 23, 2021",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "April 13, 2014",
+      "date"
+    ],
+    [
+      "Nawabganj",
+      "location"
+    ],
+    [
+      "Emergency services",
+      "organization"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "international organizations",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "August 14, 2015",
+      "date"
+    ],
+    [
+      "Independence Day",
+      "event"
+    ],
+    [
+      "Karachi grid",
+      "location"
+    ],
+    [
+      "hospitals",
+      "organization"
+    ],
+    [
+      "August 14",
+      "date"
+    ],
+    [
+      "August 17, 2015",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Java",
+      "location"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "May 26, 2019",
+      "date"
+    ],
+    [
+      "Jakarta",
+      "location"
+    ]
+  ],
+  [
+    [
+      "Java",
+      "location"
+    ],
+    [
+      "Bali",
+      "location"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "July 28, 2005",
+      "date"
+    ],
+    [
+      "lightning strike",
+      "event"
+    ],
+    [
+      "air traffic control",
+      "organization"
+    ],
+    [
+      "ferry services",
+      "organization"
+    ],
+    [
+      "Hospitals",
+      "organization"
+    ],
+    [
+      "emergency services",
+      "organization"
+    ],
+    [
+      "Businesses",
+      "organization"
+    ],
+    [
+      "Communication networks",
+      "organization"
+    ],
+    [
+      "mobile phone services",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Turkey",
+      "country"
+    ],
+    [
+      "February 17, 2015",
+      "date"
+    ],
+    [
+      "Adana",
+      "location"
+    ],
+    [
+      "Gaziantep",
+      "location"
+    ]
+  ],
+  [
+    [
+      "Brazil",
+      "country"
+    ],
+    [
+      "Paraguay",
+      "country"
+    ],
+    [
+      "May 14, 2009",
+      "date"
+    ],
+    [
+      "Itaipu Dam hydroelectric power plant",
+      "organization"
+    ],
+    [
+      "Itaipu Dam",
+      "organization"
+    ]
+  ]
+]

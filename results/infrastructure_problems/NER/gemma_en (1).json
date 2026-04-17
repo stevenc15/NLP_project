@@ -1,0 +1,430 @@
+[
+  [
+    [
+      "2012",
+      "date"
+    ],
+    [
+      "India",
+      "country"
+    ],
+    [
+      "power outages",
+      "event"
+    ],
+    [
+      "urban areas",
+      "location"
+    ],
+    [
+      "Heat Wave",
+      "event"
+    ],
+    [
+      "Technical Issues",
+      "event"
+    ],
+    [
+      "Millions of people",
+      "person"
+    ],
+    [
+      "businesses",
+      "organization"
+    ],
+    [
+      "Economic Disruption",
+      "event"
+    ],
+    [
+      "Social Disruption",
+      "event"
+    ],
+    [
+      "Health Concerns",
+      "event"
+    ],
+    [
+      "Political Fallout",
+      "event"
+    ],
+    [
+      "government",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "August 14, 2023",
+      "date"
+    ],
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "major fault",
+      "event"
+    ],
+    [
+      "Central Power Generation Company",
+      "organization"
+    ],
+    [
+      "CPEC",
+      "organization"
+    ],
+    [
+      "August 15th",
+      "date"
+    ],
+    [
+      "Karachi",
+      "location"
+    ],
+    [
+      "Lahore",
+      "location"
+    ],
+    [
+      "Islamabad",
+      "location"
+    ],
+    [
+      "Pakistani government",
+      "organization"
+    ],
+    [
+      "government",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "August 14, 2022",
+      "date"
+    ],
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "blackout",
+      "event"
+    ],
+    [
+      "Equipment failure",
+      "event"
+    ],
+    [
+      "cyberattack",
+      "event"
+    ],
+    [
+      "Businesses and industries",
+      "organization"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "emergency response teams",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "August 14, 2021",
+      "date"
+    ],
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "power outage",
+      "event"
+    ],
+    [
+      "Economic disruption",
+      "event"
+    ],
+    [
+      "Businesses and industries",
+      "organization"
+    ],
+    [
+      "Social unrest",
+      "event"
+    ],
+    [
+      "government",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "August 29, 2014",
+      "date"
+    ],
+    [
+      "businesses",
+      "organization"
+    ],
+    [
+      "Economic Disruption",
+      "event"
+    ],
+    [
+      "Social Disruption",
+      "event"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "2014",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "August 14, 2015",
+      "date"
+    ],
+    [
+      "Transmission line failure",
+      "event"
+    ],
+    [
+      "national power grid",
+      "organization"
+    ],
+    [
+      "Lahore region",
+      "location"
+    ],
+    [
+      "Karachi",
+      "location"
+    ],
+    [
+      "Lahore",
+      "location"
+    ],
+    [
+      "Islamabad",
+      "location"
+    ],
+    [
+      "Economic disruption",
+      "event"
+    ],
+    [
+      "Social disruption",
+      "event"
+    ],
+    [
+      "Political fallout",
+      "event"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "power authorities",
+      "organization"
+    ],
+    [
+      "nation",
+      "country"
+    ]
+  ],
+  [
+    [
+      "Java Blackout",
+      "event"
+    ],
+    [
+      "Java outage",
+      "event"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "Java island",
+      "location"
+    ],
+    [
+      "August 15, 2019",
+      "date"
+    ],
+    [
+      "Large-scale online gaming events",
+      "event"
+    ],
+    [
+      "Government",
+      "organization"
+    ],
+    [
+      "Java",
+      "location"
+    ],
+    [
+      "Indonesian government",
+      "organization"
+    ],
+    [
+      "2019",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Bali",
+      "location"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "Java",
+      "location"
+    ],
+    [
+      "October 1, 2005",
+      "date"
+    ],
+    [
+      "Transmission Line Failure",
+      "event"
+    ],
+    [
+      "Economic Disruption",
+      "event"
+    ],
+    [
+      "businesses",
+      "organization"
+    ],
+    [
+      "Social Disruption",
+      "event"
+    ],
+    [
+      "Safety Concerns",
+      "event"
+    ],
+    [
+      "cascading failures",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Turkey",
+      "country"
+    ],
+    [
+      "June 28, 2015",
+      "date"
+    ],
+    [
+      "High-voltage transmission line failure",
+      "event"
+    ],
+    [
+      "Bursa",
+      "location"
+    ],
+    [
+      "Turkish power grid",
+      "organization"
+    ],
+    [
+      "Istanbul",
+      "location"
+    ],
+    [
+      "Ankara",
+      "location"
+    ],
+    [
+      "Izmir",
+      "location"
+    ],
+    [
+      "Economic disruption",
+      "event"
+    ],
+    [
+      "businesses",
+      "organization"
+    ],
+    [
+      "Social unrest",
+      "event"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "Safety concerns",
+      "event"
+    ],
+    [
+      "Turkish government",
+      "organization"
+    ],
+    [
+      "2015",
+      "date"
+    ]
+  ],
+  [
+    [
+      "August 10, 2009",
+      "date"
+    ],
+    [
+      "massive power outage",
+      "event"
+    ],
+    [
+      "Brazil",
+      "country"
+    ],
+    [
+      "Paraguay",
+      "country"
+    ],
+    [
+      "Lightning strikes",
+      "event"
+    ],
+    [
+      "Economic impact",
+      "event"
+    ],
+    [
+      "Social impact",
+      "event"
+    ]
+  ]
+]

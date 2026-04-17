@@ -1,0 +1,386 @@
+[
+  [
+    [
+      "India",
+      "country"
+    ],
+    [
+      "July and August 2012",
+      "date"
+    ],
+    [
+      "Transmission System Issues",
+      "event"
+    ],
+    [
+      "Businesses",
+      "organization"
+    ],
+    [
+      "industries",
+      "organization"
+    ],
+    [
+      "Social Discontent",
+      "event"
+    ],
+    [
+      "Health Concerns",
+      "event"
+    ],
+    [
+      "healthcare facilities",
+      "organization"
+    ],
+    [
+      "Government",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "December 2023",
+      "date"
+    ],
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "Transmission Line Failure",
+      "event"
+    ],
+    [
+      "southern region",
+      "location"
+    ],
+    [
+      "Potential Cyberattack",
+      "event"
+    ],
+    [
+      "cyberattack",
+      "event"
+    ],
+    [
+      "businesses",
+      "organization"
+    ],
+    [
+      "Political Fallout",
+      "event"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "Authorities",
+      "organization"
+    ],
+    [
+      "2023",
+      "date"
+    ],
+    [
+      "blackout",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "9 de diciembre de 2022",
+      "date"
+    ],
+    [
+      "blackout",
+      "event"
+    ],
+    [
+      "industrias",
+      "organization"
+    ],
+    [
+      "Dhaka",
+      "location"
+    ],
+    [
+      "millones de personas",
+      "person"
+    ],
+    [
+      "2022",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Pakistán",
+      "country"
+    ],
+    [
+      "9 de septiembre de 2021",
+      "date"
+    ],
+    [
+      "Lahore",
+      "location"
+    ],
+    [
+      "millones de personas",
+      "person"
+    ],
+    [
+      "empresas",
+      "organization"
+    ],
+    [
+      "negocios",
+      "organization"
+    ],
+    [
+      "Descontento social",
+      "event"
+    ],
+    [
+      "2021",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "2 de mayo de 2014",
+      "date"
+    ],
+    [
+      "El blackout",
+      "event"
+    ],
+    [
+      "blackout",
+      "event"
+    ],
+    [
+      "2014",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Pakistán",
+      "country"
+    ],
+    [
+      "9 de septiembre de 2015",
+      "date"
+    ],
+    [
+      "Apagón generalizado",
+      "event"
+    ],
+    [
+      "apagón",
+      "event"
+    ],
+    [
+      "Karachi",
+      "location"
+    ],
+    [
+      "Lahore",
+      "location"
+    ],
+    [
+      "Islamabad",
+      "location"
+    ],
+    [
+      "gobierno",
+      "organization"
+    ],
+    [
+      "El apagón de 2015",
+      "event"
+    ],
+    [
+      "El gobierno",
+      "organization"
+    ],
+    [
+      "apagón de 2015",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Java blackout",
+      "event"
+    ],
+    [
+      "2019",
+      "date"
+    ],
+    [
+      "usuarios",
+      "person"
+    ],
+    [
+      "Oracle",
+      "organization"
+    ],
+    [
+      "empresas",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Java-Bali",
+      "location"
+    ],
+    [
+      "Java",
+      "location"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "1 de octubre de 2005",
+      "date"
+    ],
+    [
+      "blackout",
+      "event"
+    ],
+    [
+      "Tanjung Priok",
+      "location"
+    ],
+    [
+      "Jakarta",
+      "location"
+    ],
+    [
+      "Surabaya",
+      "location"
+    ],
+    [
+      "Bandung",
+      "location"
+    ],
+    [
+      "Denpasar",
+      "location"
+    ],
+    [
+      "empresas",
+      "organization"
+    ],
+    [
+      "negocios",
+      "organization"
+    ],
+    [
+      "bancos",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Turkey",
+      "country"
+    ],
+    [
+      "June 28, 2015",
+      "date"
+    ],
+    [
+      "High-voltage transmission line failure",
+      "event"
+    ],
+    [
+      "Potential sabotage",
+      "event"
+    ],
+    [
+      "Economic disruption",
+      "event"
+    ],
+    [
+      "businesses",
+      "organization"
+    ],
+    [
+      "Social unrest",
+      "event"
+    ],
+    [
+      "Health concerns",
+      "event"
+    ],
+    [
+      "Communication breakdown",
+      "event"
+    ],
+    [
+      "Political fallout",
+      "event"
+    ],
+    [
+      "government",
+      "organization"
+    ],
+    [
+      "widespread power outage",
+      "event"
+    ],
+    [
+      "Turkish",
+      "country"
+    ]
+  ],
+  [
+    [
+      "Brazil",
+      "country"
+    ],
+    [
+      "Paraguay",
+      "country"
+    ],
+    [
+      "August 10, 2009",
+      "date"
+    ],
+    [
+      "Itaipu hydroelectric dam",
+      "country"
+    ],
+    [
+      "Economic losses",
+      "event"
+    ],
+    [
+      "Social unrest",
+      "event"
+    ],
+    [
+      "blackout",
+      "event"
+    ],
+    [
+      "emergency response systems",
+      "organization"
+    ]
+  ]
+]

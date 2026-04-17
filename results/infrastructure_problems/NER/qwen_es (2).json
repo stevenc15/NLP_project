@@ -1,0 +1,234 @@
+[
+  [
+    [
+      "India",
+      "country"
+    ],
+    [
+      "30 de diciembre de 2012",
+      "date"
+    ],
+    [
+      "1 de enero de 2013",
+      "date"
+    ],
+    [
+      "Cambio climático",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "2023",
+      "date"
+    ],
+    [
+      "Pakistán",
+      "country"
+    ],
+    [
+      "noviembre de 2021",
+      "date"
+    ]
+  ],
+  [
+    [
+      "14 de diciembre de 2022",
+      "date"
+    ],
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "apagón",
+      "event"
+    ],
+    [
+      "BPDB",
+      "organization"
+    ],
+    [
+      "autoridades locales y nacionales",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "28 de noviembre de 2021",
+      "date"
+    ],
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "Blackout",
+      "event"
+    ],
+    [
+      "Punjab",
+      "location"
+    ],
+    [
+      "Sindh",
+      "location"
+    ],
+    [
+      "autoridades pakistaníes",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "23 de diciembre de 2014",
+      "date"
+    ],
+    [
+      "apagón",
+      "event"
+    ],
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "BPDB",
+      "organization"
+    ],
+    [
+      "Chittagong",
+      "location"
+    ],
+    [
+      "autoridades locales y nacionales",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "27 de diciembre de 2015",
+      "date"
+    ],
+    [
+      "Pakistán",
+      "country"
+    ]
+  ],
+  [
+    [
+      "Java blackout",
+      "event"
+    ],
+    [
+      "2019",
+      "date"
+    ],
+    [
+      "27 de junio de 2019",
+      "date"
+    ],
+    [
+      "Oracle",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "20 de enero de 2005",
+      "date"
+    ],
+    [
+      "Java-Bali blackout",
+      "event"
+    ],
+    [
+      "Black Saturday",
+      "event"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "Java",
+      "location"
+    ],
+    [
+      "Bali",
+      "location"
+    ],
+    [
+      "Sumatra",
+      "location"
+    ],
+    [
+      "Sulawesi",
+      "location"
+    ],
+    [
+      "Singapur",
+      "country"
+    ],
+    [
+      "Malasia",
+      "country"
+    ],
+    [
+      "Singapur",
+      "location"
+    ]
+  ],
+  [
+    [
+      "30 de diciembre de 2015",
+      "date"
+    ],
+    [
+      "Turquía",
+      "country"
+    ],
+    [
+      "apagón",
+      "event"
+    ],
+    [
+      "gobierno turco",
+      "organization"
+    ],
+    [
+      "fuerzas armadas",
+      "organization"
+    ],
+    [
+      "autoridades",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "2009",
+      "date"
+    ],
+    [
+      "Brasil-Paraguay",
+      "country"
+    ],
+    [
+      "Brasil",
+      "country"
+    ],
+    [
+      "Paraguay",
+      "country"
+    ],
+    [
+      "noviembre de 2009",
+      "date"
+    ]
+  ]
+]

@@ -1,0 +1,61 @@
+event,model_lang,model_count,gt_count,ratio
+War in Darfur,gemma_en,15,31,0.4839
+Iraq War,gemma_en,17,41,0.4146
+Mexican Drug War,gemma_en,14,31,0.4516
+Central African Bush War,gemma_en,27,26,1.0385
+2005 Bangladesh–India border clash,gemma_en,12,0,
+Chadian Civil War,gemma_en,16,7,2.2857
+Iraqi civil war,gemma_en,22,20,1.1
+Operation Astute,gemma_en,9,12,0.75
+2006 Lebanon War,gemma_en,12,23,0.5217
+Somalia Civil War,gemma_en,17,51,0.3333
+War in Darfur,gemma_es,25,31,0.8065
+Iraq War,gemma_es,25,41,0.6098
+Mexican Drug War,gemma_es,17,31,0.5484
+Central African Bush War,gemma_es,32,26,1.2308
+2005 Bangladesh–India border clash,gemma_es,7,0,
+Chadian Civil War,gemma_es,21,7,3.0
+Iraqi civil war,gemma_es,23,20,1.15
+Operation Astute,gemma_es,9,12,0.75
+2006 Lebanon War,gemma_es,14,23,0.6087
+Somalia Civil War,gemma_es,23,51,0.451
+War in Darfur,qwen_en,17,31,0.5484
+Iraq War,qwen_en,17,41,0.4146
+Mexican Drug War,qwen_en,13,31,0.4194
+Central African Bush War,qwen_en,15,26,0.5769
+2005 Bangladesh–India border clash,qwen_en,10,0,
+Chadian Civil War,qwen_en,22,7,3.1429
+Iraqi civil war,qwen_en,23,20,1.15
+Operation Astute,qwen_en,12,12,1.0
+2006 Lebanon War,qwen_en,13,23,0.5652
+Somalia Civil War,qwen_en,24,51,0.4706
+War in Darfur,qwen_es,16,31,0.5161
+Iraq War,qwen_es,16,41,0.3902
+Mexican Drug War,qwen_es,13,31,0.4194
+Central African Bush War,qwen_es,17,26,0.6538
+2005 Bangladesh–India border clash,qwen_es,10,0,
+Chadian Civil War,qwen_es,27,7,3.8571
+Iraqi civil war,qwen_es,14,20,0.7
+Operation Astute,qwen_es,1,12,0.0833
+2006 Lebanon War,qwen_es,8,23,0.3478
+Somalia Civil War,qwen_es,15,51,0.2941
+War in Darfur,llama_en,26,31,0.8387
+Iraq War,llama_en,24,41,0.5854
+Mexican Drug War,llama_en,28,31,0.9032
+Central African Bush War,llama_en,21,26,0.8077
+2005 Bangladesh–India border clash,llama_en,10,0,
+Chadian Civil War,llama_en,21,7,3.0
+Iraqi civil war,llama_en,25,20,1.25
+Operation Astute,llama_en,19,12,1.5833
+2006 Lebanon War,llama_en,29,23,1.2609
+Somalia Civil War,llama_en,26,51,0.5098
+War in Darfur,llama_es,9,31,0.2903
+Iraq War,llama_es,11,41,0.2683
+Mexican Drug War,llama_es,17,31,0.5484
+Central African Bush War,llama_es,17,26,0.6538
+2005 Bangladesh–India border clash,llama_es,11,0,
+Chadian Civil War,llama_es,17,7,2.4286
+Iraqi civil war,llama_es,14,20,0.7
+Operation Astute,llama_es,12,12,1.0
+2006 Lebanon War,llama_es,8,23,0.3478
+Somalia Civil War,llama_es,19,51,0.3725

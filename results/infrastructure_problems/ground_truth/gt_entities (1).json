@@ -1,0 +1,230 @@
+[
+  [
+    [
+      "India",
+      "country"
+    ],
+    [
+      "31 July 2012",
+      "date"
+    ],
+    [
+      "30 July 2012",
+      "date"
+    ],
+    [
+      "January 2001",
+      "date"
+    ],
+    [
+      "blackout",
+      "event"
+    ],
+    [
+      "May 2025",
+      "date"
+    ],
+    [
+      "30 July",
+      "date"
+    ],
+    [
+      "Northern",
+      "location"
+    ],
+    [
+      "31 July",
+      "date"
+    ],
+    [
+      "1 August 2012",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "power outage",
+      "event"
+    ],
+    [
+      "23 January 2023",
+      "date"
+    ],
+    [
+      "rural communities",
+      "location"
+    ],
+    [
+      "capital city",
+      "location"
+    ],
+    [
+      "Islamabad",
+      "location"
+    ],
+    [
+      "Rawalpindi",
+      "location"
+    ],
+    [
+      "Lahore",
+      "location"
+    ],
+    [
+      "Karachi",
+      "location"
+    ]
+  ],
+  [
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "power outage",
+      "event"
+    ],
+    [
+      "October 4, 2022",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "power outage",
+      "event"
+    ],
+    [
+      "January 9, 2021",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Bangladesh",
+      "country"
+    ],
+    [
+      "power outage",
+      "event"
+    ],
+    [
+      "November 2, 2014",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Pakistan",
+      "country"
+    ],
+    [
+      "power outage",
+      "event"
+    ],
+    [
+      "January 24, 2015",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Java blackout",
+      "event"
+    ],
+    [
+      "Java",
+      "location"
+    ],
+    [
+      "August 4, 2019",
+      "date"
+    ],
+    [
+      "August 5, 2019",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Java",
+      "location"
+    ],
+    [
+      "Bali",
+      "location"
+    ],
+    [
+      "18 August 2005",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Turkey",
+      "country"
+    ],
+    [
+      "31 March 2015",
+      "date"
+    ],
+    [
+      "Turkish electric authority",
+      "organization"
+    ],
+    [
+      "spring rains",
+      "event"
+    ],
+    [
+      "hydropower plants",
+      "organization"
+    ],
+    [
+      "Greece",
+      "country"
+    ],
+    [
+      "Bulgaria",
+      "country"
+    ],
+    [
+      "Western part",
+      "location"
+    ],
+    [
+      "Eastern part",
+      "location"
+    ]
+  ],
+  [
+    [
+      "Brazil",
+      "country"
+    ],
+    [
+      "Paraguay",
+      "country"
+    ],
+    [
+      "power outage",
+      "event"
+    ],
+    [
+      "November 10",
+      "date"
+    ],
+    [
+      "2009",
+      "date"
+    ]
+  ]
+]

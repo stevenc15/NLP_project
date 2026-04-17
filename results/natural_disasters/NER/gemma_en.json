@@ -1,0 +1,438 @@
+[
+  [
+    [
+      "Indian Ocean",
+      "location"
+    ],
+    [
+      "December 26, 2004",
+      "date"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "Sumatra",
+      "location"
+    ],
+    [
+      "Aceh province",
+      "location"
+    ],
+    [
+      "Sri Lanka",
+      "country"
+    ],
+    [
+      "Thailand",
+      "country"
+    ],
+    [
+      "India",
+      "country"
+    ],
+    [
+      "Maldives",
+      "country"
+    ],
+    [
+      "Somalia",
+      "country"
+    ],
+    [
+      "Kenya",
+      "country"
+    ],
+    [
+      "Tanzania",
+      "country"
+    ],
+    [
+      "South Africa",
+      "country"
+    ],
+    [
+      "tsunami warning systems",
+      "organization"
+    ],
+    [
+      "region",
+      "location"
+    ],
+    [
+      "disaster",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Tangshan Earthquake",
+      "event"
+    ],
+    [
+      "July 28, 1976",
+      "date"
+    ],
+    [
+      "Tangshan",
+      "location"
+    ],
+    [
+      "Hebei Province",
+      "location"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Rescue teams",
+      "organization"
+    ],
+    [
+      "Chinese government",
+      "organization"
+    ],
+    [
+      "International Aid",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Haiyuan Earthquake",
+      "event"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "August 18, 1920",
+      "date"
+    ],
+    [
+      "Haiyuan",
+      "location"
+    ],
+    [
+      "Shanxi province",
+      "location"
+    ],
+    [
+      "Chinese government",
+      "organization"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "United States",
+      "country"
+    ]
+  ],
+  [
+    [
+      "The 1923 Great Kantō Earthquake",
+      "event"
+    ],
+    [
+      "The Great Kantō earthquake",
+      "event"
+    ],
+    [
+      "Kanto earthquake",
+      "event"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "September 1, 1923",
+      "date"
+    ],
+    [
+      "Hakone",
+      "location"
+    ],
+    [
+      "Kantō region",
+      "location"
+    ],
+    [
+      "North Anatolian Fault",
+      "location"
+    ],
+    [
+      "Pacific Ocean",
+      "location"
+    ],
+    [
+      "Tokyo",
+      "location"
+    ],
+    [
+      "Yokohama",
+      "location"
+    ],
+    [
+      "Japanese government",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Ashgabat",
+      "location"
+    ],
+    [
+      "Ashgabat earthquake",
+      "event"
+    ],
+    [
+      "Turkmen Soviet Socialist Republic",
+      "organization"
+    ],
+    [
+      "August 26, 1948",
+      "date"
+    ],
+    [
+      "Turkmenistan",
+      "country"
+    ],
+    [
+      "Turkmen-Caspian fault",
+      "location"
+    ]
+  ],
+  [
+    [
+      "March 11, 2011",
+      "date"
+    ],
+    [
+      "Tohoku",
+      "location"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "Tsunami",
+      "event"
+    ],
+    [
+      "Earthquake",
+      "event"
+    ],
+    [
+      "Pacific Ocean",
+      "location"
+    ],
+    [
+      "Korea",
+      "country"
+    ],
+    [
+      "North America",
+      "location"
+    ],
+    [
+      "Nuclear Disaster",
+      "event"
+    ],
+    [
+      "earthquake and tsunami",
+      "event"
+    ],
+    [
+      "Climate Change",
+      "event"
+    ],
+    [
+      "2011",
+      "date"
+    ],
+    [
+      "Tōhoku earthquake and tsunami",
+      "event"
+    ],
+    [
+      "Japan Meteorological Agency",
+      "organization"
+    ],
+    [
+      "United States Geological Survey",
+      "organization"
+    ],
+    [
+      "International Atomic Energy Agency",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "January 17, 1995",
+      "date"
+    ],
+    [
+      "Kobe",
+      "location"
+    ],
+    [
+      "Japan",
+      "country"
+    ],
+    [
+      "tsunami",
+      "event"
+    ],
+    [
+      "Philippine Sea Plate",
+      "location"
+    ],
+    [
+      "Eurasian Plate",
+      "location"
+    ],
+    [
+      "earthquake",
+      "event"
+    ],
+    [
+      "Emergency Services",
+      "organization"
+    ],
+    [
+      "Japanese government",
+      "organization"
+    ],
+    [
+      "academic journals",
+      "organization"
+    ],
+    [
+      "historical archives",
+      "organization"
+    ],
+    [
+      "news reports",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "February 6, 2023",
+      "date"
+    ],
+    [
+      "Turkey",
+      "country"
+    ],
+    [
+      "Syria",
+      "country"
+    ],
+    [
+      "7.8 magnitude earthquake",
+      "event"
+    ],
+    [
+      "Gaziantep",
+      "location"
+    ],
+    [
+      "7.5 magnitude earthquake",
+      "event"
+    ],
+    [
+      "Kahramanmaras",
+      "location"
+    ],
+    [
+      "Hatay provinces",
+      "location"
+    ],
+    [
+      "Aleppo",
+      "location"
+    ],
+    [
+      "Idlib",
+      "location"
+    ],
+    [
+      "Latakia",
+      "location"
+    ],
+    [
+      "International aid organizations",
+      "organization"
+    ],
+    [
+      "rescue teams",
+      "organization"
+    ],
+    [
+      "Economic impact",
+      "event"
+    ],
+    [
+      "ongoing humanitarian crisis",
+      "event"
+    ]
+  ],
+  [
+    [
+      "May 12, 2008",
+      "date"
+    ],
+    [
+      "Wenchuan",
+      "location"
+    ],
+    [
+      "Sichuan province",
+      "location"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Tibetan Plateau",
+      "location"
+    ],
+    [
+      "Chinese government",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Christchurch",
+      "location"
+    ],
+    [
+      "February 22, 2011",
+      "date"
+    ],
+    [
+      "New Zealand",
+      "country"
+    ],
+    [
+      "Canterbury region",
+      "location"
+    ],
+    [
+      "Emergency services",
+      "organization"
+    ]
+  ]
+]

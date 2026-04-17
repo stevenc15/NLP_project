@@ -1,0 +1,406 @@
+[
+  [
+    [
+      "Océano Índico",
+      "location"
+    ],
+    [
+      "26 de diciembre de 2004",
+      "date"
+    ],
+    [
+      "terremoto",
+      "event"
+    ],
+    [
+      "India",
+      "country"
+    ],
+    [
+      "península de Malaya",
+      "location"
+    ],
+    [
+      "Tailandia",
+      "country"
+    ],
+    [
+      "Indonesia",
+      "country"
+    ],
+    [
+      "Sri Lanka",
+      "country"
+    ],
+    [
+      "Maldivas",
+      "country"
+    ],
+    [
+      "Myanmar",
+      "country"
+    ],
+    [
+      "Somalia",
+      "country"
+    ],
+    [
+      "Sudán",
+      "country"
+    ],
+    [
+      "Egipto",
+      "country"
+    ],
+    [
+      "Yemen",
+      "country"
+    ],
+    [
+      "Omán",
+      "country"
+    ],
+    [
+      "Arabia Saudita",
+      "country"
+    ],
+    [
+      "Jordania",
+      "country"
+    ],
+    [
+      "Israel",
+      "country"
+    ]
+  ],
+  [
+    [
+      "Tangshan",
+      "location"
+    ],
+    [
+      "Tangshan earthquake",
+      "event"
+    ],
+    [
+      "28 de agosto de 1976",
+      "date"
+    ],
+    [
+      "Hebei",
+      "location"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Eurasia",
+      "location"
+    ],
+    [
+      "gobierno chino",
+      "organization"
+    ],
+    [
+      "El terremoto",
+      "event"
+    ]
+  ],
+  [
+    [
+      "Haiyuan",
+      "location"
+    ],
+    [
+      "16 de diciembre de 1920",
+      "date"
+    ],
+    [
+      "provincia de Gansu",
+      "location"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "provincia de Ningxia",
+      "location"
+    ],
+    [
+      "gobierno chino",
+      "organization"
+    ],
+    [
+      "organizaciones internacionales",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Terremoto de Kanto",
+      "event"
+    ],
+    [
+      "1 de septiembre de 1923",
+      "date"
+    ],
+    [
+      "Gran Kantō",
+      "location"
+    ],
+    [
+      "Japón",
+      "country"
+    ],
+    [
+      "Yokohama",
+      "location"
+    ],
+    [
+      "ciudad de Tokio",
+      "location"
+    ],
+    [
+      "gobierno japonés",
+      "organization"
+    ],
+    [
+      "1923",
+      "date"
+    ]
+  ],
+  [
+    [
+      "Ashgabat",
+      "location"
+    ],
+    [
+      "17 de febrero de 1948",
+      "date"
+    ],
+    [
+      "Turcomenistán",
+      "country"
+    ],
+    [
+      "Turkmenistán",
+      "country"
+    ],
+    [
+      "Darvaza",
+      "location"
+    ],
+    [
+      "Unión Soviética",
+      "country"
+    ],
+    [
+      "Cruz Roja",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Tōhoku",
+      "location"
+    ],
+    [
+      "11 de marzo de 2011",
+      "date"
+    ],
+    [
+      "terremoto y tsunami",
+      "event"
+    ],
+    [
+      "Japón",
+      "country"
+    ],
+    [
+      "10 de marzo",
+      "date"
+    ],
+    [
+      "prefectura de Miyagi",
+      "location"
+    ],
+    [
+      "Sendai",
+      "location"
+    ],
+    [
+      "prefectura de Iwate",
+      "location"
+    ],
+    [
+      "Estados Unidos",
+      "country"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Corea del Sur",
+      "country"
+    ],
+    [
+      "Australia",
+      "country"
+    ],
+    [
+      "Organización Mundial de la Salud",
+      "organization"
+    ],
+    [
+      "OMS",
+      "organization"
+    ],
+    [
+      "Organización para la Cooperación y el Desarrollo Económicos",
+      "organization"
+    ],
+    [
+      "OCDE",
+      "organization"
+    ],
+    [
+      "La ayuda humanitaria",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Terremoto del Gran Hanshin",
+      "event"
+    ],
+    [
+      "17 de enero de 1995",
+      "date"
+    ],
+    [
+      "Hyogo",
+      "location"
+    ],
+    [
+      "isla de Honshu",
+      "location"
+    ],
+    [
+      "Japón",
+      "country"
+    ],
+    [
+      "Kobe",
+      "location"
+    ],
+    [
+      "Himeji",
+      "location"
+    ],
+    [
+      "gobierno japonés",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Terremotos",
+      "event"
+    ],
+    [
+      "Turquía",
+      "country"
+    ],
+    [
+      "Siria",
+      "country"
+    ],
+    [
+      "6 de febrero de 2023",
+      "date"
+    ],
+    [
+      "Gaziantep",
+      "location"
+    ],
+    [
+      "11 de febrero de 2023",
+      "date"
+    ],
+    [
+      "Kahramanmaraş",
+      "location"
+    ],
+    [
+      "comunidad internacional",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Sichuan",
+      "location"
+    ],
+    [
+      "12 de mayo de 2008",
+      "date"
+    ],
+    [
+      "China",
+      "country"
+    ],
+    [
+      "Wenchuan",
+      "location"
+    ],
+    [
+      "Shaanxi",
+      "location"
+    ],
+    [
+      "Gansu",
+      "location"
+    ],
+    [
+      "gobierno chino",
+      "organization"
+    ],
+    [
+      "Estados Unidos",
+      "country"
+    ],
+    [
+      "George W. Bush",
+      "person"
+    ],
+    [
+      "Organización Mundial de la Salud",
+      "organization"
+    ],
+    [
+      "OMS",
+      "organization"
+    ]
+  ],
+  [
+    [
+      "Christchurch",
+      "location"
+    ],
+    [
+      "22 de febrero de 2011",
+      "date"
+    ],
+    [
+      "Nueva Zelanda",
+      "country"
+    ],
+    [
+      "placa tectónica de Sudeste Asiático",
+      "location"
+    ]
+  ]
+]

@@ -1,0 +1,91 @@
+dataset,event,model,count_en,count_es,asymmetry_index
+conflicts,2005 Bangladesh–India border clash,gemma,12.0,7.0,0.2632
+conflicts,2005 Bangladesh–India border clash,llama,10.0,11.0,-0.0476
+conflicts,2005 Bangladesh–India border clash,qwen,10.0,10.0,0.0
+conflicts,2006 Lebanon War,gemma,12.0,14.0,-0.0769
+conflicts,2006 Lebanon War,llama,29.0,8.0,0.5676
+conflicts,2006 Lebanon War,qwen,13.0,8.0,0.2381
+conflicts,Central African Bush War,gemma,27.0,32.0,-0.0847
+conflicts,Central African Bush War,llama,21.0,17.0,0.1053
+conflicts,Central African Bush War,qwen,15.0,17.0,-0.0625
+conflicts,Chadian Civil War,gemma,16.0,21.0,-0.1351
+conflicts,Chadian Civil War,llama,21.0,17.0,0.1053
+conflicts,Chadian Civil War,qwen,22.0,27.0,-0.102
+conflicts,Iraq War,gemma,17.0,25.0,-0.1905
+conflicts,Iraq War,llama,24.0,11.0,0.3714
+conflicts,Iraq War,qwen,17.0,16.0,0.0303
+conflicts,Iraqi civil war,gemma,22.0,23.0,-0.0222
+conflicts,Iraqi civil war,llama,25.0,14.0,0.2821
+conflicts,Iraqi civil war,qwen,23.0,14.0,0.2432
+conflicts,Mexican Drug War,gemma,14.0,17.0,-0.0968
+conflicts,Mexican Drug War,llama,28.0,17.0,0.2444
+conflicts,Mexican Drug War,qwen,13.0,13.0,0.0
+conflicts,Operation Astute,gemma,9.0,9.0,0.0
+conflicts,Operation Astute,llama,19.0,12.0,0.2258
+conflicts,Operation Astute,qwen,12.0,1.0,0.8462
+conflicts,Somalia Civil War,gemma,17.0,23.0,-0.15
+conflicts,Somalia Civil War,llama,26.0,19.0,0.1556
+conflicts,Somalia Civil War,qwen,24.0,15.0,0.2308
+conflicts,War in Darfur,gemma,15.0,25.0,-0.25
+conflicts,War in Darfur,llama,26.0,9.0,0.4857
+conflicts,War in Darfur,qwen,17.0,16.0,0.0303
+infrastructure_problems,2005 Java–Bali blackout,gemma,10.0,13.0,-0.1304
+infrastructure_problems,2005 Java–Bali blackout,llama,9.0,9.0,0.0
+infrastructure_problems,2005 Java–Bali blackout,qwen,12.0,11.0,0.0435
+infrastructure_problems,2009 Brazil and Paraguay blackout,gemma,7.0,8.0,-0.0667
+infrastructure_problems,2009 Brazil and Paraguay blackout,llama,8.0,12.0,-0.2
+infrastructure_problems,2009 Brazil and Paraguay blackout,qwen,5.0,5.0,0.0
+infrastructure_problems,2012 India blackouts,gemma,13.0,9.0,0.1818
+infrastructure_problems,2012 India blackouts,llama,12.0,12.0,0.0
+infrastructure_problems,2012 India blackouts,qwen,9.0,4.0,0.3846
+infrastructure_problems,2014 Bangladesh blackout,gemma,7.0,5.0,0.1667
+infrastructure_problems,2014 Bangladesh blackout,llama,5.0,8.0,-0.2308
+infrastructure_problems,2014 Bangladesh blackout,qwen,6.0,6.0,0.0
+infrastructure_problems,2015 Pakistan blackout,gemma,14.0,11.0,0.12
+infrastructure_problems,2015 Pakistan blackout,llama,13.0,9.0,0.1818
+infrastructure_problems,2015 Pakistan blackout,qwen,7.0,2.0,0.5556
+infrastructure_problems,2015 Turkey blackout,gemma,15.0,13.0,0.0714
+infrastructure_problems,2015 Turkey blackout,llama,9.0,8.0,0.0588
+infrastructure_problems,2015 Turkey blackout,qwen,4.0,6.0,-0.2
+infrastructure_problems,2019 Java blackout,gemma,10.0,5.0,0.3333
+infrastructure_problems,2019 Java blackout,llama,9.0,13.0,-0.1818
+infrastructure_problems,2019 Java blackout,qwen,4.0,4.0,0.0
+infrastructure_problems,2021 Pakistan blackout,gemma,7.0,8.0,-0.0667
+infrastructure_problems,2021 Pakistan blackout,llama,11.0,7.0,0.2222
+infrastructure_problems,2021 Pakistan blackout,qwen,10.0,6.0,0.25
+infrastructure_problems,2022 Bangladesh blackout,gemma,8.0,7.0,0.0667
+infrastructure_problems,2022 Bangladesh blackout,llama,12.0,6.0,0.3333
+infrastructure_problems,2022 Bangladesh blackout,qwen,9.0,5.0,0.2857
+infrastructure_problems,2023 Pakistan blackout,gemma,11.0,12.0,-0.0435
+infrastructure_problems,2023 Pakistan blackout,llama,6.0,4.0,0.2
+infrastructure_problems,2023 Pakistan blackout,qwen,9.0,4.0,0.3846
+natural_disasters,1920 Haiyuan earthquake,gemma,8.0,9.0,-0.0588
+natural_disasters,1920 Haiyuan earthquake,llama,10.0,7.0,0.1765
+natural_disasters,1920 Haiyuan earthquake,qwen,10.0,6.0,0.25
+natural_disasters,1923 Great Kantō earthquake,gemma,12.0,11.0,0.0435
+natural_disasters,1923 Great Kantō earthquake,llama,16.0,8.0,0.3333
+natural_disasters,1923 Great Kantō earthquake,qwen,9.0,8.0,0.0588
+natural_disasters,1948 Ashgabat earthquake,gemma,6.0,6.0,0.0
+natural_disasters,1948 Ashgabat earthquake,llama,8.0,7.0,0.0667
+natural_disasters,1948 Ashgabat earthquake,qwen,9.0,8.0,0.0588
+natural_disasters,1976 Tangshan earthquake,gemma,8.0,8.0,0.0
+natural_disasters,1976 Tangshan earthquake,llama,7.0,8.0,-0.0667
+natural_disasters,1976 Tangshan earthquake,qwen,10.0,7.0,0.1765
+natural_disasters,1995 Great Hanshin earthquake,gemma,12.0,12.0,0.0
+natural_disasters,1995 Great Hanshin earthquake,llama,7.0,8.0,-0.0667
+natural_disasters,1995 Great Hanshin earthquake,qwen,6.0,11.0,-0.2941
+natural_disasters,2004 Indian Ocean earthquake and tsunami,gemma,16.0,18.0,-0.0588
+natural_disasters,2004 Indian Ocean earthquake and tsunami,llama,16.0,18.0,-0.0588
+natural_disasters,2004 Indian Ocean earthquake and tsunami,qwen,10.0,15.0,-0.2
+natural_disasters,2008 Sichuan earthquake,gemma,6.0,12.0,-0.3333
+natural_disasters,2008 Sichuan earthquake,llama,13.0,11.0,0.0833
+natural_disasters,2008 Sichuan earthquake,qwen,12.0,8.0,0.2
+natural_disasters,2011 Christchurch earthquake,gemma,5.0,4.0,0.1111
+natural_disasters,2011 Christchurch earthquake,llama,11.0,4.0,0.4667
+natural_disasters,2011 Christchurch earthquake,qwen,11.0,5.0,0.375
+natural_disasters,2011 Tōhoku earthquake and tsunami,gemma,16.0,9.0,0.28
+natural_disasters,2011 Tōhoku earthquake and tsunami,llama,14.0,17.0,-0.0968
+natural_disasters,2011 Tōhoku earthquake and tsunami,qwen,15.0,8.0,0.3043
+natural_disasters,2023 Turkey–Syria earthquakes,gemma,15.0,13.0,0.0714
+natural_disasters,2023 Turkey–Syria earthquakes,llama,9.0,8.0,0.0588
+natural_disasters,2023 Turkey–Syria earthquakes,qwen,9.0,9.0,0.0

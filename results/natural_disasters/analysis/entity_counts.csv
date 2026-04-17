@@ -1,0 +1,61 @@
+event,model_lang,model_count,gt_count,ratio
+2004 Indian Ocean earthquake and tsunami,gemma_en,16,20,0.8
+1976 Tangshan earthquake,gemma_en,8,6,1.3333
+1920 Haiyuan earthquake,gemma_en,8,12,0.6667
+1923 Great Kantō earthquake,gemma_en,12,22,0.5455
+1948 Ashgabat earthquake,gemma_en,6,7,0.8571
+2011 Tōhoku earthquake and tsunami,gemma_en,16,21,0.7619
+1995 Great Hanshin earthquake,gemma_en,12,8,1.5
+2023 Turkey–Syria earthquakes,gemma_en,15,24,0.625
+2008 Sichuan earthquake,gemma_en,6,15,0.4
+2011 Christchurch earthquake,gemma_en,5,14,0.3571
+2004 Indian Ocean earthquake and tsunami,gemma_es,18,20,0.9
+1976 Tangshan earthquake,gemma_es,8,6,1.3333
+1920 Haiyuan earthquake,gemma_es,9,12,0.75
+1923 Great Kantō earthquake,gemma_es,11,22,0.5
+1948 Ashgabat earthquake,gemma_es,6,7,0.8571
+2011 Tōhoku earthquake and tsunami,gemma_es,9,21,0.4286
+1995 Great Hanshin earthquake,gemma_es,12,8,1.5
+2023 Turkey–Syria earthquakes,gemma_es,13,24,0.5417
+2008 Sichuan earthquake,gemma_es,12,15,0.8
+2011 Christchurch earthquake,gemma_es,4,14,0.2857
+2004 Indian Ocean earthquake and tsunami,qwen_en,10,20,0.5
+1976 Tangshan earthquake,qwen_en,10,6,1.6667
+1920 Haiyuan earthquake,qwen_en,10,12,0.8333
+1923 Great Kantō earthquake,qwen_en,9,22,0.4091
+1948 Ashgabat earthquake,qwen_en,9,7,1.2857
+2011 Tōhoku earthquake and tsunami,qwen_en,15,21,0.7143
+1995 Great Hanshin earthquake,qwen_en,6,8,0.75
+2023 Turkey–Syria earthquakes,qwen_en,9,24,0.375
+2008 Sichuan earthquake,qwen_en,12,15,0.8
+2011 Christchurch earthquake,qwen_en,11,14,0.7857
+2004 Indian Ocean earthquake and tsunami,qwen_es,15,20,0.75
+1976 Tangshan earthquake,qwen_es,7,6,1.1667
+1920 Haiyuan earthquake,qwen_es,6,12,0.5
+1923 Great Kantō earthquake,qwen_es,8,22,0.3636
+1948 Ashgabat earthquake,qwen_es,8,7,1.1429
+2011 Tōhoku earthquake and tsunami,qwen_es,8,21,0.381
+1995 Great Hanshin earthquake,qwen_es,11,8,1.375
+2023 Turkey–Syria earthquakes,qwen_es,9,24,0.375
+2008 Sichuan earthquake,qwen_es,8,15,0.5333
+2011 Christchurch earthquake,qwen_es,5,14,0.3571
+2004 Indian Ocean earthquake and tsunami,llama_en,16,20,0.8
+1976 Tangshan earthquake,llama_en,7,6,1.1667
+1920 Haiyuan earthquake,llama_en,10,12,0.8333
+1923 Great Kantō earthquake,llama_en,16,22,0.7273
+1948 Ashgabat earthquake,llama_en,8,7,1.1429
+2011 Tōhoku earthquake and tsunami,llama_en,14,21,0.6667
+1995 Great Hanshin earthquake,llama_en,7,8,0.875
+2023 Turkey–Syria earthquakes,llama_en,9,24,0.375
+2008 Sichuan earthquake,llama_en,13,15,0.8667
+2011 Christchurch earthquake,llama_en,11,14,0.7857
+2004 Indian Ocean earthquake and tsunami,llama_es,18,20,0.9
+1976 Tangshan earthquake,llama_es,8,6,1.3333
+1920 Haiyuan earthquake,llama_es,7,12,0.5833
+1923 Great Kantō earthquake,llama_es,8,22,0.3636
+1948 Ashgabat earthquake,llama_es,7,7,1.0
+2011 Tōhoku earthquake and tsunami,llama_es,17,21,0.8095
+1995 Great Hanshin earthquake,llama_es,8,8,1.0
+2023 Turkey–Syria earthquakes,llama_es,8,24,0.3333
+2008 Sichuan earthquake,llama_es,11,15,0.7333
+2011 Christchurch earthquake,llama_es,4,14,0.2857

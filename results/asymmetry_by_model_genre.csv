@@ -1,0 +1,10 @@
+model,genre,mean_asymmetry,std_asymmetry
+gemma,conflicts,-0.0743,0.1401
+gemma,infrastructure_problems,0.0633,0.1428
+gemma,natural_disasters,0.0055,0.1547
+llama,conflicts,0.2496,0.1862
+llama,infrastructure_problems,0.0383,0.1968
+llama,natural_disasters,0.0896,0.1875
+qwen,conflicts,0.1454,0.2768
+qwen,infrastructure_problems,0.1704,0.2357
+qwen,natural_disasters,0.0929,0.2145
